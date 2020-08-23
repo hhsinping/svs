@@ -37,7 +37,7 @@ In European Conference on Computer Vision (ECCV), 2020.
 ## Acknowledgments
 Our work builds upon
 - [SPADE](https://github.com/NVlabs/SPADE)
-- [RealEstate10K](https://google.github.io/RealEstate10K/)
+- [RealEstate10K](https://google.github.io/realestate10k/)
 - [Semantic Segmentation](https://github.com/CSAILVision/semantic-segmentation-pytorch)
 - [MiDaS](https://github.com/intel-isl/MiDaS)
 - [DPSNet](https://github.com/sunghoonim/DPSNet)
