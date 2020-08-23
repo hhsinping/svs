@@ -1,7 +1,5 @@
 # [ECCV 2020] Semantic View Synthesis
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iT5PfK7zl1quAOwC227GfBjieFMVHjI5)
-
 ### [[Paper](https://hhsinping.github.io/svs/link/paper.pdf)] [[Project Website](https://hhsinping.github.io/svs/)] [[Google Colab](https://colab.research.google.com/drive/1iT5PfK7zl1quAOwC227GfBjieFMVHjI5)]
 
 <p align='center'>
