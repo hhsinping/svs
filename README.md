@@ -30,7 +30,8 @@ pip install scikit-image==0.15.0 dill==0.2.9 moviepy==1.0.1
 git clone https://github.com/hhsinping/svs.git
 cd svs
 bash download_model.sh
-# put your own semantic maps into inputs folder OR run download_input.sh and select maps from labels folder
+# put your own semantic maps into inputs folder 
+# OR bash download_input.sh and select maps from labels folder
 bash test.sh
 ```
 
