@@ -24,16 +24,13 @@ In European Conference on Computer Vision (ECCV), 2020.
 ```
 conda create -n svs python=3.7
 source activate svs
-conda install pytorch==1.1.0
-conda install torchvision==0.3.0
-pip install scikit-image==0.15.0
-pip install dill==0.2.9
-pip install moviepy==1.0.1
+conda install pytorch==1.1.0 torchvision==0.3.0
+pip install scikit-image==0.15.0 dill==0.2.9 moviepy==1.0.1
 
 git clone https://github.com/hhsinping/svs.git
 cd svs
 bash download_model.sh
-# put your own semantic maps into labels folder OR run download_input.sh
+# put your own semantic maps into labels folder OR run download_input.sh and select maps
 bash test.sh
 ```
 
