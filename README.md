@@ -23,7 +23,7 @@ In European Conference on Computer Vision (ECCV), 2020.
 ## Quick start
 ```
 conda create -n svs python=3.7
-conda activate svs
+source activate svs
 conda install pytorch==1.1.0
 conda install torchvision==0.3.0
 pip install scikit-image==0.15.0
